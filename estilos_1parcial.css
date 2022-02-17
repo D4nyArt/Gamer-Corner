@@ -1,0 +1,60 @@
+.boton{    
+    display:inline-block;
+    width:70%;
+    padding:10px;
+    background: rgb(0, 0, 0);
+    text-align: center;
+    color:white;
+    font-size: 30px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    border: 3px white;
+    border-radius: 15px;
+}
+
+.boton:hover{
+    background-color: #7b00c2;
+    color: "white";
+  box-shadow: 0px 0px 5px 5px white;
+  
+}
+
+.letra_1{
+    font-family: 'Alfa Slab One';
+    font-size: 50pt;
+    font-weight: bold;
+    color: #ff04dd;
+    font-style:italic;
+    font-weight: bold;
+    letter-spacing: 5px;
+    background-color: rgb(122, 36, 115);
+    width: 50%;
+    border-radius: 20px;
+}
+
+.letra_2{
+    font-family: Arial;
+    font-size: 25pt;
+    font-weight: bold;
+    color: white;
+}
+  
+.letra_3{
+    font-size: 20pt;
+    font-weight: bold;
+    color: white;
+}
+  
+.campo{
+      font-size:16pt;
+      font-weight: bold;
+      color: white;
+      background: #060FC6;
+      text-align: center;
+      border-radius: 7%;
+}  
+
+
+.asterisk{
+    color: rgb(255, 0, 0);
+}
